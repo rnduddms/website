@@ -17,7 +17,7 @@ a{text-decoration: none;}
 header{}
 header .top{width: 100%; height: 30px; background: #000;}
 header .top .wrap{width: 1160px; height: 100%; margin: 0 auto;padding: 0 10px; position: relative;}
-header .top .wrap .info{}
+header .top .wrap .info{float: left;}
 header .top .wrap .info ul{display: flex; flex-wrap: wrap;}
 header .top .wrap .info ul li{line-height: 30px; color: #fff; margin: 0 10px;}
 
